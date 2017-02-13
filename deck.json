@@ -1,0 +1,563 @@
+{
+	"cards": [{
+		"card_number": 1,
+		"name": "hauntedcity",
+		"color": "green",
+		"score": 2,
+		"cost": 2,
+		"description": "For purposes of victory points, the Haunted City is considered to be of the color of your choice. You cannot use this ability if you built it during the last round of the game."
+	}, {
+		"card_number": 2,
+		"name": "manor",
+		"color": "yellow",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 3,
+		"name": "observatory",
+		"color": "yellow",
+		"score": 5,
+		"cost": 5,
+		"description": "If you choose to draw cards when you take an action, you draw three cards, keep one of your choice, and put the other two on the bottom of the deck."
+	}, {
+		"card_number": 4,
+		"name": "market",
+		"color": "green",
+		"score": 2,
+		"cost": 2,
+		"description": "No description"
+	}, {
+		"card_number": 5,
+		"name": "tavern",
+		"color": "green",
+		"score": 1,
+		"cost": 1,
+		"description": "No description"
+	}, {
+		"card_number": 6,
+		"name": "prison",
+		"color": "red",
+		"score": 2,
+		"cost": 2,
+		"description": "No description"
+	}, {
+		"card_number": 7,
+		"name": "watchtower",
+		"color": "red",
+		"score": 1,
+		"cost": 1,
+		"description": "No description"
+	}, {
+		"card_number": 8,
+		"name": "temple",
+		"color": "blue",
+		"score": 1,
+		"cost": 1,
+		"description": "No description"
+	}, {
+		"card_number": 9,
+		"name": "tompkins",
+		"color": "blue",
+		"score": 1,
+		"cost": 1,
+		"description": "No description"
+	}, {
+		"card_number": 10,
+		"name": "cinema",
+		"color": "yellow",
+		"score": 4,
+		"cost": 4,
+		"description": "No description"
+	}, {
+		"card_number": 11,
+		"name": "himalayas",
+		"color": "green",
+		"score": 4,
+		"cost": 4,
+		"description": "No description"
+	}, {
+		"card_number": 12,
+		"name": "battlefield",
+		"color": "red",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 13,
+		"name": "downtown",
+		"color": "green",
+		"score": 2,
+		"cost": 2,
+		"description": "No description"
+	}, {
+		"card_number": 14,
+		"name": "fortress",
+		"color": "red",
+		"score": 5,
+		"cost": 5,
+		"description": "No description"
+	}, {
+		"card_number": 15,
+		"name": "monastery",
+		"color": "blue",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 16,
+		"name": "cathouse",
+		"color": "yellow",
+		"score": 4,
+		"cost": 4,
+		"description": "No description"
+	}, {
+		"card_number": 17,
+		"name": "laboratory",
+		"color": "yellow",
+		"score": 5,
+		"cost": 5,
+		"description": "Once during your turn, you may discard a district card from your hand and receive one gold from the bank."
+	}, {
+		"card_number": 18,
+		"name": "library",
+		"color": "yellow",
+		"score": 6,
+		"cost": 6,
+		"description": "If you choose to draw cards when you take an action, you keep both of the cards you have drawn."
+	}, {
+		"card_number": 19,
+		"name": "tradingpost",
+		"color": "green",
+		"score": 2,
+		"cost": 2,
+		"description": "No description"
+	}, {
+		"card_number": 20,
+		"name": "korea",
+		"color": "red",
+		"score": 3,
+		"cost": 3,
+		"description": "korea cannot be destroyed/exchanged by the Warlord/Diplomat."
+	}, {
+		"card_number": 21,
+		"name": "graveyard",
+		"color": "red",
+		"score": 5,
+		"cost": 5,
+		"description": "When the Warlord destroys a district, you may pay one gold to take the destroyed district into your hand. You may not do this if you are the Warlod. You cannot use this ability to retrieve the Graveyard if it was destroyed."
+	}, {
+		"card_number": 22,
+		"name": "cathedral",
+		"color": "blue",
+		"score": 5,
+		"cost": 5,
+		"description": "No description"
+	}, {
+		"card_number": 23,
+		"name": "hamstore",
+		"color": "green",
+		"score": 4,
+		"cost": 4,
+		"description": "No description"
+	}, {
+		"card_number": 24,
+		"name": "greatwall",
+		"color": "yellow",
+		"score": 6,
+		"cost": 6,
+		"description": "The cost for the Warlord/Diplomat to destroy/exchange any of your other districts is increased by one gold."
+	}, {
+		"card_number": 25,
+		"name": "maze",
+		"color": "yellow",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 26,
+		"name": "church",
+		"color": "blue",
+		"score": 2,
+		"cost": 2,
+		"description": "No description"
+	}, {
+		"card_number": 27,
+		"name": "twizzlers",
+		"color": "blue",
+		"score": 1,
+		"cost": 1,
+		"description": "No description"
+	}, {
+		"card_number": 28,
+		"name": "church",
+		"color": "blue",
+		"score": 2,
+		"cost": 2,
+		"description": "No description"
+	}, {
+		"card_number": 29,
+		"name": "theaterhouse",
+		"color": "green",
+		"score": 2,
+		"cost": 2,
+		"description": "No description"
+	}, {
+		"card_number": 30,
+		"name": "cornellclocktower",
+		"color": "red",
+		"score": 1,
+		"cost": 1,
+		"description": "No description"
+	}, {
+		"card_number": 31,
+		"name": "seyun",
+		"color": "red",
+		"score": 1,
+		"cost": 1,
+		"description": "No description"
+	}, {
+		"card_number": 32,
+		"name": "batman",
+		"color": "red",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 33,
+		"name": "forest",
+		"color": "red",
+		"score": 5,
+		"cost": 5,
+		"description": "No description"
+	}, {
+		"card_number": 34,
+		"name": "university",
+		"color": "blue",
+		"score": 8,
+		"cost": 8,
+		"description": "The district costs six gold to build, but is worth eight points at the end of the game."
+	}, {
+		"card_number": 35,
+		"name": "parameter",
+		"color": "blue",
+		"score": 2,
+		"cost": 2,
+		"description": "No description"
+	}, {
+		"card_number": 36,
+		"name": "minae",
+		"color": "blue",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 37,
+		"name": "ithaca",
+		"color": "green",
+		"score": 2,
+		"cost": 2,
+		"description": "No description"
+	}, {
+		"card_number": 38,
+		"name": "townhouse",
+		"color": "green",
+		"score": 1,
+		"cost": 1,
+		"description": "No description"
+	}, {
+		"card_number": 39,
+		"name": "host",
+		"color": "green",
+		"score": 4,
+		"cost": 4,
+		"description": "No description"
+	}, {
+		"card_number": 40,
+		"name": "cornell",
+		"color": "yellow",
+		"score": 4,
+		"cost": 4,
+		"description": "No description"
+	}, {
+		"card_number": 41,
+		"name": "bombhouse",
+		"color": "red",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 42,
+		"name": "cs3110",
+		"color": "green",
+		"score": 3,
+		"cost": 3,
+		"description": "cs3110 cannot be destroyed/exchanged by the Warlord/Diplomat"
+	}, {
+		"card_number": 43,
+		"name": "palace",
+		"color": "yellow",
+		"score": 5,
+		"cost": 5,
+		"description": "No description"
+	}, {
+		"card_number": 44,
+		"name": "teagle",
+		"color": "green",
+		"score": 2,
+		"cost": 2,
+		"description": "No description"
+	}, {
+		"card_number": 45,
+		"name": "castle",
+		"color": "yellow",
+		"score": 4,
+		"cost": 4,
+		"description": "No description"
+	}, {
+		"card_number": 46,
+		"name": "palace",
+		"color": "yellow",
+		"score": 5,
+		"cost": 5,
+		"description": "No description"
+	}, {
+		"card_number": 47,
+		"name": "mall",
+		"color": "blue",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 48,
+		"name": "townhall",
+		"color": "green",
+		"score": 5,
+		"cost": 5,
+		"description": "No description"
+	}, {
+		"card_number": 49,
+		"name": "townhall",
+		"color": "green",
+		"score": 5,
+		"cost": 5,
+		"description": "No description"
+	}, {
+		"card_number": 50,
+		"name": "smithy",
+		"color": "red",
+		"score": 5,
+		"cost": 5,
+		"description": "Once during your turn, you may pay two gold to draw three district cards."
+	}, {
+		"card_number": 51,
+		"name": "bank",
+		"color": "green",
+		"score": 2,
+		"cost": 2,
+		"description": "No description"
+	}, {
+		"card_number": 52,
+		"name": "church",
+		"color": "blue",
+		"score": 2,
+		"cost": 2,
+		"description": "No description"
+	}, {
+		"card_number": 53,
+		"name": "geehyun",
+		"color": "green",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 54,
+		"name": "meadows",
+		"color": "yellow",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 55,
+		"name": "tournament",
+		"color": "green",
+		"score": 1,
+		"cost": 1,
+		"description": "No description"
+	}, {
+		"card_number": 56,
+		"name": "pandahouse",
+		"color": "red",
+		"score": 2,
+		"cost": 2,
+		"description": "No description"
+	}, {
+		"card_number": 57,
+		"name": "schoolofmagic",
+		"color": "yellow",
+		"score": 6,
+		"cost": 6,
+		"description": "For purposes of income, the School of Magic is considered to be of the color of your choice. If you are the King this round, for example, the School of Magic is considered to be a noble (yellow) district."
+	}, {
+		"card_number": 58,
+		"name": "milano",
+		"color": "yellow",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 59,
+		"name": "dragongate",
+		"color": "blue",
+		"score": 8,
+		"cost": 8,
+		"description": "The district costs six gold to build, but is worth eight points at the end of the game."
+	}, {
+		"card_number": 60,
+		"name": "jooho",
+		"color": "green",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 61,
+		"name": "dragonhouse",
+		"color": "green",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 62,
+		"name": "cathedral",
+		"color": "blue",
+		"score": 5,
+		"cost": 5,
+		"description": "No description"
+	}, {
+		"card_number": 63,
+		"name": "maproom",
+		"color": "yellow",
+		"score": 3,
+		"cost": 3,
+		"description": "No description"
+	}, {
+		"card_number": 64,
+		"name": "palace",
+		"color": "yellow",
+		"score": 5,
+		"cost": 5,
+		"description": "No description"
+	}, {
+		"card_number": 65,
+		"name": "treehouse",
+		"color": "green",
+		"score": 1,
+		"cost": 1,
+		"description": "No description"
+	}, {
+		"card_number": 66,
+		"name": "tournament",
+		"color": "green",
+		"score": 1,
+		"cost": 1,
+		"description": "No description"
+	}, {
+		"card_number": 67,
+		"name": "throneroom",
+		"color": "green",
+		"score": 6,
+		"cost": 6,
+		"description": "Star. Every time the Crown switches players, you receive one gold from the bank."
+	}, {
+		"card_number": 68,
+		"name": "maproom",
+		"color": "red",
+		"score": 5,
+		"cost": 5,
+		"description": "Star. At the end of the game, you score one point for each card in your hand."
+	}, {
+		"card_number": 69,
+		"name": "wishingwell",
+		"color": "yellow",
+		"score": 5,
+		"cost": 5,
+		"description": "Star. At the end of the game, you score one point for every other purple district in your city."
+	}, {
+		"card_number": 70,
+		"name": "hospital",
+		"color": "blue",
+		"score": 6,
+		"cost": 6,
+		"description": "Star. Even if you are assassinated, you may take an action during your turn (but may not build a district card or use your character's power)."
+	}, {
+		"card_number": 71,
+		"name": "poorhouse",
+		"color": "green",
+		"score": 5,
+		"cost": 5,
+		"description": "Star. If you have no gold at the end of your turn receive one gold from the bank. Gold placed on your district cards does not count as your gold for this purpose."
+	}, {
+		"card_number": 72,
+		"name": "factory",
+		"color": "red",
+		"score": 6,
+		"cost": 6,
+		"description": "Star. Your cost of building other purple district cards is reduced by one. This does not affect the cost that the Warlord/Diplomat pays to destroy/exchange your purple districts."
+	}, {
+		"card_number": 73,
+		"name": "belltower",
+		"color": "yellow",
+		"score": 5,
+		"cost": 5,
+		"description": "Star. When you place the Bell Tower in your city, you may announce that the game will end after the round in which a player first places his seventh district. You may do this even if the Bell Tower is your seventh district. If the Bell Tower is later destroyed, the endgame conditions return to normal."
+	}, {
+		"card_number": 74,
+		"name": "ballroom",
+		"color": "blue",
+		"score": 6,
+		"cost": 6,
+		"description": "Star. When you have the Crown, all other players must say \"Thanks, your Excellency\" after you have called their character. If a player forgets to address you in this way, he loses the turn."
+	}, {
+		"card_number": 75,
+		"name": "armory",
+		"color": "green",
+		"score": 3,
+		"cost": 3,
+		"description": "Star. During your turn, you may destroy the Armory in order to destroy any other district card of your choice in another player's city."
+	}, {
+		"card_number": 76,
+		"name": "lighthouse",
+		"color": "red",
+		"score": 3,
+		"cost": 3,
+		"description": "Star. When you place the Lighthouse in your city, you may look through the District Deck, choose one card, and add it to your hand. Shuffle the deck afterwards."
+	}, {
+		"card_number": 77,
+		"name": "museum",
+		"color": "yellow",
+		"score": 4,
+		"cost": 4,
+		"description": "Star. On your turn, you may place one district card from your hand facedown under the Museum. At the end of the game, you score one extra point for every card under the Museum."
+	}, {
+		"card_number": 78,
+		"name": "park",
+		"color": "blue",
+		"score": 6,
+		"cost": 6,
+		"description": "Star. If you have no cards in your hand at the end of your turn, you may draw two cards from the District Deck."
+	}, {
+		"card_number": 79,
+		"name": "imperialtreasury",
+		"color": "green",
+		"score": 4,
+		"cost": 4,
+		"description": "Star. At the end of the game, you score one point for each gold in your possesion. Gold placed on your district cards does not count towards this total."
+	}, {
+		"card_number": 80,
+		"name": "quarry",
+		"color": "red",
+		"score": 5,
+		"cost": 5,
+		"description": "When building, you may play a district card already found in your city. You may not have more than two identical districts in your city."
+	}
+]}

@@ -1,0 +1,56 @@
+### Starting build.
+# Target: main.ml.depends, tags: { extension:ml, file:main.ml, ocaml, ocamldep, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamldep.opt -modules main.ml > main.ml.depends # cached
+# Target: game.mli.depends, tags: { extension:mli, file:game.mli, ocaml, ocamldep, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamldep.opt -modules game.mli > game.mli.depends # cached
+# Target: ai.mli.depends, tags: { extension:mli, file:ai.mli, ocaml, ocamldep, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamldep.opt -modules ai.mli > ai.mli.depends # cached
+# Target: state.mli.depends, tags: { extension:mli, file:state.mli, ocaml, ocamldep, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamldep.opt -modules state.mli > state.mli.depends # cached
+# Target: state.cmi, tags: { byte, compile, extension:mli, file:state.mli, interf, ocaml, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -c -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson -o state.cmi state.mli # cached
+# Target: ai.cmi, tags: { byte, compile, extension:mli, file:ai.mli, interf, ocaml, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -c -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson -o ai.cmi ai.mli # cached
+# Target: aihandler.mli.depends, tags: { extension:mli, file:aihandler.mli, ocaml, ocamldep, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamldep.opt -modules aihandler.mli > aihandler.mli.depends # cached
+# Target: aihandler.cmi, tags: { byte, compile, extension:mli, file:aihandler.mli, interf, ocaml, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -c -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson -o aihandler.cmi aihandler.mli # cached
+# Target: game.cmi, tags: { byte, compile, extension:mli, file:game.mli, interf, ocaml, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -c -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson -o game.cmi game.mli # cached
+# Target: main.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:main.cmo, file:main.ml, implem, ocaml, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -c -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson -o main.cmo main.ml # cached
+# Target: game.ml.depends, tags: { extension:ml, file:game.ml, ocaml, ocamldep, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamldep.opt -modules game.ml > game.ml.depends # cached
+# Target: gui.mli.depends, tags: { extension:mli, file:gui.mli, ocaml, ocamldep, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamldep.opt -modules gui.mli > gui.mli.depends # cached
+# Target: gui.cmi, tags: { byte, compile, extension:mli, file:gui.mli, interf, ocaml, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -c -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson -o gui.cmi gui.mli # cached
+# Target: power.mli.depends, tags: { extension:mli, file:power.mli, ocaml, ocamldep, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamldep.opt -modules power.mli > power.mli.depends # cached
+# Target: power.cmi, tags: { byte, compile, extension:mli, file:power.mli, interf, ocaml, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -c -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson -o power.cmi power.mli # cached
+# Target: game.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:game.cmo, file:game.ml, implem, ocaml, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -c -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson -o game.cmo game.ml # cached
+# Target: ai.ml.depends, tags: { extension:ml, file:ai.ml, ocaml, ocamldep, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamldep.opt -modules ai.ml > ai.ml.depends # cached
+# Target: ai.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:ai.cmo, file:ai.ml, implem, ocaml, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -c -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson -o ai.cmo ai.ml # cached
+# Target: aihandler.ml.depends, tags: { extension:ml, file:aihandler.ml, ocaml, ocamldep, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamldep.opt -modules aihandler.ml > aihandler.ml.depends # cached
+# Target: aihandler.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:aihandler.cmo, file:aihandler.ml, implem, ocaml, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -c -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson -o aihandler.cmo aihandler.ml # cached
+# Target: gui.ml.depends, tags: { extension:ml, file:gui.ml, ocaml, ocamldep, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamldep.opt -modules gui.ml > gui.ml.depends # cached
+# Target: gui.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:gui.cmo, file:gui.ml, implem, ocaml, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -c -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson -o gui.cmo gui.ml # cached
+# Target: power.ml.depends, tags: { extension:ml, file:power.ml, ocaml, ocamldep, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamldep.opt -modules power.ml > power.ml.depends # cached
+# Target: power.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:power.cmo, file:power.ml, implem, ocaml, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -c -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson -o power.cmo power.ml # cached
+# Target: state.ml.depends, tags: { extension:ml, file:state.ml, ocaml, ocamldep, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamldep.opt -modules state.ml > state.ml.depends
+# Target: state.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:state.cmo, file:state.ml, implem, ocaml, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -c -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson -o state.cmo state.ml
+# Target: main.byte, tags: { byte, dont_link_with, extension:byte, file:main.byte, link, ocaml, program, quiet }
+/Users/seyunkim/.opam/4.03.0/bin/ocamlc.opt -I /Users/seyunkim/.opam/4.03.0/lib/ANSITerminal -I /Users/seyunkim/.opam/4.03.0/lib/biniou -I /Users/seyunkim/.opam/4.03.0/lib/bytes -I /Users/seyunkim/.opam/4.03.0/lib/easy-format -I /Users/seyunkim/.opam/4.03.0/lib/oUnit -I /Users/seyunkim/.opam/4.03.0/lib/ocaml -I /Users/seyunkim/.opam/4.03.0/lib/yojson unix.cma oUnitAdvanced.cma oUnit.cma easy_format.cmo biniou.cma yojson.cmo str.cma ANSITerminal.cma state.cmo ai.cmo aihandler.cmo gui.cmo power.cmo game.cmo main.cmo -o main.byte
+# Compilation successful.
